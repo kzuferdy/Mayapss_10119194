@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Mayapss_10119194</string>
+
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Perkenalan Diri</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="pre_sale_desc">Tidak khawatir ketinggalan\nupdate film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Gunakan e-wallet untuk\ntransaksi tiket nonton</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email Address</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang\nAngga Risky</string>
+    <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="when">When</string>
+    <string name="datetime">Date and Time</string>
+    <string name="cinema">Cinema</string>
+    <string name="ewallet">E-Wallet</string>
+    <string name="totalbalance">Total Balance</string>
+    <string name="lihat_tike">Lihat Tiket</string>
+    <string name="home">Home</string>
+    <string name="happy_watch">Happy Watching!</string>
+    <string name="simpan_data">Simpan Data Baru</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="my_history">My History</string>
+    <string name="daftar_akun">Daftar Akun Baru</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="perkenalan_diri">Perkenalan Diri</string>
+    <string name="perkenalan_playing_desc">Sebuah aplikasi biodata diri\nUntuk Memenuhi Nilai UTS</string>
+    <string name="daily_act">Daily Activity</string>
+    <string name="daily_desc">Aktivitas sehari-hari</string>
+    <string name="profileee">Profile</string>
+    <string name="nama_mhs">Ferdy Mohamad Firdaus</string>
+    <string name="email_mhs">kzuferdy@gmail.com</string>
+    <string name="kontak">Contact</string>
+    <string name="find_me">Find Me</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myapps">MAYAPSS</string>
+    <string name="profileee_desc">Menunjukan Biografi</string>
+    <string name="hobby">Hobi</string>
+    <string name="hobby_desc">Bermain game, Eksplor hal baru</string>
+    <string name="cita_cita">Cita-Cita</string>
+    <string name="cita_cita_desc">Developer Android, Fullstack Web</string>
+    <string name="university">Universitas</string>
+    <string name="university_desc">Universitas Komputer Indonesia</string>
+    <string name="sosmed">Social Media</string>
+    <string name="sosmed_fb"><a href="https://www.facebook.com/kzuferdy/">Facebook</a>\n<a href="https://www.instagram.com/kzuferdy/">Instagram</a>\n<a href="https://wa.me/81914947821">WhatsApp</a>\n<a href="https://twitter.com/FerdyMohamadFi1">Twitter</a></string>
+    <string name="sosmed_ig"><a href="https://www.instagram.com/kzuferdy/">Instagram</a></string>
+    <string name="sosmed_wa"><a href="https://wa.me/81914947821">WhatsApp</a></string>
+    <string name="sosmed_twitter"><a href="https://twitter.com/FerdyMohamadFi1">Twitter</a></string>
+    <string name="umur_mhs">20thn</string>
+    <string name="nim_mhs">10119194</string>
+    <string name="kipan">Irpan</string>
+    <string name="about">About</string>
+    <string name="fr_1">Irfan Fadillah</string>
+    <string name="fr_2">Taufik Ramadhan</string>
+    <string name="fr_3">Ramadhan Sandha</string>
+    <string name="fr_4">Rendy Setyo</string>
+</resources>

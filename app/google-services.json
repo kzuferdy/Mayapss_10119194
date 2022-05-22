@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821443617308",
+    "firebase_url": "https://myapss-f0121-default-rtdb.firebaseio.com",
+    "project_id": "myapss-f0121",
+    "storage_bucket": "myapss-f0121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821443617308:android:35677b83bbfdce1ec975d9",
+        "android_client_info": {
+          "package_name": "com.kzuferdy.mayapss_10119194"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821443617308-i7lrftc1k4rmd0o3h85f7kr3dmvrfeqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0aZx5aZw_5bQ5F16MNTQUMO8CQtnbDfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821443617308-i7lrftc1k4rmd0o3h85f7kr3dmvrfeqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
